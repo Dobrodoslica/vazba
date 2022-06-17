@@ -1,0 +1,39 @@
+{   
+    "emloyees": [
+        {
+            "id": 1,
+            "photo": "https://www.pexels.com/photo/woman-in-white-collared-shirt-smiling-5704720/",
+            "name": "Ana",
+            "age": 25,
+            "position": "UI designer"
+        },
+        {
+            "id": 2,
+            "photo": "https://www.pexels.com/photo/man-in-brown-polo-shirt-614810/", 
+            "name": "Aleksandar",
+            "age": 26,
+            "position": "UX designer"
+        },
+        {
+            "id": 3,
+            "photo": "https://www.pexels.com/photo/man-wearing-blue-crew-neck-t-shirt-2379005/", 
+            "name": "Branko",
+            "age": 27,
+            "position": "Front-end developer"
+        },
+        {
+            "id": 4,
+            "photo": "https://www.pexels.com/photo/man-in-gray-shirt-standing-while-smiling-1844547/", 
+            "name": "Branislav",
+            "age": 28,
+            "position": "Back-end developer"
+        },
+        {
+            "id": 5,
+            "photo": "https://www.pexels.com/photo/man-wearing-blue-crew-neck-shirt-2287252/", 
+            "name": "Vojin",
+            "age": 29,
+            "position": "Software tester"
+        }
+    ]
+}
